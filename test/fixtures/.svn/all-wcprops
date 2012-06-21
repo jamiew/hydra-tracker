@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/140/trunk/test/fixtures
+END
+torrent_files.yml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/test/fixtures/torrent_files.yml
+END
+torrents.yml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/test/fixtures/torrents.yml
+END
+categories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/test/fixtures/categories.yml
+END
+comments.yml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/140/trunk/test/fixtures/comments.yml
+END
+peers.yml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/9/trunk/test/fixtures/peers.yml
+END

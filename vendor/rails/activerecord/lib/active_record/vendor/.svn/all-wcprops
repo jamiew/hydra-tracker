@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/157/trunk/vendor/rails/activerecord/lib/active_record/vendor
+END
+mysql.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/157/trunk/vendor/rails/activerecord/lib/active_record/vendor/mysql.rb
+END
+db2.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/157/trunk/vendor/rails/activerecord/lib/active_record/vendor/db2.rb
+END

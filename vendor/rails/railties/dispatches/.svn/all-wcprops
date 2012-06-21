@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/157/trunk/vendor/rails/railties/dispatches
+END
+dispatch.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/157/trunk/vendor/rails/railties/dispatches/dispatch.rb
+END
+gateway.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/157/trunk/vendor/rails/railties/dispatches/gateway.cgi
+END
+dispatch.fcgi
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/157/trunk/vendor/rails/railties/dispatches/dispatch.fcgi
+END

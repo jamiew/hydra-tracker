@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/157/trunk/vendor/rails/activerecord/test/fixtures/migrations_with_duplicate
+END
+1_people_have_last_names.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/157/trunk/vendor/rails/activerecord/test/fixtures/migrations_with_duplicate/1_people_have_last_names.rb
+END
+2_we_need_reminders.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/157/trunk/vendor/rails/activerecord/test/fixtures/migrations_with_duplicate/2_we_need_reminders.rb
+END
+3_foo.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/157/trunk/vendor/rails/activerecord/test/fixtures/migrations_with_duplicate/3_foo.rb
+END
+3_innocent_jointable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/157/trunk/vendor/rails/activerecord/test/fixtures/migrations_with_duplicate/3_innocent_jointable.rb
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/165/trunk/config
+END
+config.yml.example
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/158/trunk/config/config.yml.example
+END
+routes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/143/trunk/config/routes.rb
+END
+boot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/3/trunk/config/boot.rb
+END
+environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/158/trunk/config/environment.rb
+END
+federation.yml.example
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/91/trunk/config/federation.yml.example
+END
+database.yml.example
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/123/trunk/config/database.yml.example
+END

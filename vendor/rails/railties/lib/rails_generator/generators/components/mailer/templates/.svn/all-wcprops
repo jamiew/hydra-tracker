@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/157/trunk/vendor/rails/railties/lib/rails_generator/generators/components/mailer/templates
+END
+view.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/157/trunk/vendor/rails/railties/lib/rails_generator/generators/components/mailer/templates/view.rhtml
+END
+unit_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/157/trunk/vendor/rails/railties/lib/rails_generator/generators/components/mailer/templates/unit_test.rb
+END
+view.erb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/157/trunk/vendor/rails/railties/lib/rails_generator/generators/components/mailer/templates/view.erb
+END
+mailer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/157/trunk/vendor/rails/railties/lib/rails_generator/generators/components/mailer/templates/mailer.rb
+END
+fixture.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/157/trunk/vendor/rails/railties/lib/rails_generator/generators/components/mailer/templates/fixture.rhtml
+END
+fixture.erb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/157/trunk/vendor/rails/railties/lib/rails_generator/generators/components/mailer/templates/fixture.erb
+END

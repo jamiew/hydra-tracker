@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/157/trunk/vendor/rails/activesupport/test/autoloading_fixtures/module_with_custom_const_missing/a
+END
+b.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/157/trunk/vendor/rails/activesupport/test/autoloading_fixtures/module_with_custom_const_missing/a/b.rb
+END

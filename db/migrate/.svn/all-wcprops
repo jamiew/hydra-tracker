@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/158/trunk/db/migrate
+END
+005_ratio_sync.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/db/migrate/005_ratio_sync.rb
+END
+008_create_comments.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/140/trunk/db/migrate/008_create_comments.rb
+END
+007_non_auto_sync_id.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/124/trunk/db/migrate/007_non_auto_sync_id.rb
+END
+009_full_text_search.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/158/trunk/db/migrate/009_full_text_search.rb
+END
+003_create_torrents.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/36/trunk/db/migrate/003_create_torrents.rb
+END
+001_initial.rb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/db/migrate/001_initial.rb
+END
+002_create_categories.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/80/trunk/db/migrate/002_create_categories.rb
+END
+006_is_local.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/58/trunk/db/migrate/006_is_local.rb
+END
+004_cleanup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/36/trunk/db/migrate/004_cleanup.rb
+END

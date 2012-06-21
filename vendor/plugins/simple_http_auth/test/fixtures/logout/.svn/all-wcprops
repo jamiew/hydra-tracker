@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/141/trunk/vendor/plugins/simple_http_auth/test/fixtures/logout
+END
+logout.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/141/trunk/vendor/plugins/simple_http_auth/test/fixtures/logout/logout.rhtml
+END

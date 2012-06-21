@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/157/trunk/vendor/rails/activerecord/lib/active_record/serializers
+END
+json_serializer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/157/trunk/vendor/rails/activerecord/lib/active_record/serializers/json_serializer.rb
+END
+xml_serializer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/157/trunk/vendor/rails/activerecord/lib/active_record/serializers/xml_serializer.rb
+END

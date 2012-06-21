@@ -1,0 +1,12 @@
+xml.response do 
+  xml.sync_id @current_sync.sync_id
+  xml.users do
+    @diffshots.each do |s|
+      xml.user do 
+        xml.login s[:login]
+        xml.downloaded s[:downloaded]
+        xml.uploaded s[:uploaded]
+      end
+    end
+  end
+end

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/157/trunk/vendor/rails/actionmailer/test/fixtures/path.with.dots/funky_path_mailer
+END
+multipart_with_template_path_with_dots.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/157/trunk/vendor/rails/actionmailer/test/fixtures/path.with.dots/funky_path_mailer/multipart_with_template_path_with_dots.rhtml
+END
+multipart_with_template_path_with_dots.erb
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/157/trunk/vendor/rails/actionmailer/test/fixtures/path.with.dots/funky_path_mailer/multipart_with_template_path_with_dots.erb
+END

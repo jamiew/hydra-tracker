@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/157/trunk/vendor/rails/activesupport/lib/active_support/multibyte/handlers
+END
+utf8_handler.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/157/trunk/vendor/rails/activesupport/lib/active_support/multibyte/handlers/utf8_handler.rb
+END
+passthru_handler.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/157/trunk/vendor/rails/activesupport/lib/active_support/multibyte/handlers/passthru_handler.rb
+END
+utf8_handler_proc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/157/trunk/vendor/rails/activesupport/lib/active_support/multibyte/handlers/utf8_handler_proc.rb
+END

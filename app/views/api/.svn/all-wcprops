@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/127/trunk/app/views/api
+END
+list_torrents.rxml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/85/trunk/app/views/api/list_torrents.rxml
+END
+list_users.rxml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/63/trunk/app/views/api/list_users.rxml
+END
+list_transfer_stats.rxml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/127/trunk/app/views/api/list_transfer_stats.rxml
+END

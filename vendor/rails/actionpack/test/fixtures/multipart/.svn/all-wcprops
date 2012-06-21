@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/157/trunk/vendor/rails/actionpack/test/fixtures/multipart
+END
+single_parameter
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/157/trunk/vendor/rails/actionpack/test/fixtures/multipart/single_parameter
+END
+mona_lisa.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/157/trunk/vendor/rails/actionpack/test/fixtures/multipart/mona_lisa.jpg
+END
+binary_file
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/157/trunk/vendor/rails/actionpack/test/fixtures/multipart/binary_file
+END
+text_file
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/157/trunk/vendor/rails/actionpack/test/fixtures/multipart/text_file
+END
+bracketed_param
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/157/trunk/vendor/rails/actionpack/test/fixtures/multipart/bracketed_param
+END
+mixed_files
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/157/trunk/vendor/rails/actionpack/test/fixtures/multipart/mixed_files
+END
+large_text_file
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/157/trunk/vendor/rails/actionpack/test/fixtures/multipart/large_text_file
+END

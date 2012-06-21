@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/157/trunk/vendor/rails/railties/configs/databases
+END
+sqlite2.yml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/157/trunk/vendor/rails/railties/configs/databases/sqlite2.yml
+END
+frontbase.yml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/157/trunk/vendor/rails/railties/configs/databases/frontbase.yml
+END
+postgresql.yml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/157/trunk/vendor/rails/railties/configs/databases/postgresql.yml
+END
+sqlite3.yml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/157/trunk/vendor/rails/railties/configs/databases/sqlite3.yml
+END
+mysql.yml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/157/trunk/vendor/rails/railties/configs/databases/mysql.yml
+END
+oracle.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/157/trunk/vendor/rails/railties/configs/databases/oracle.yml
+END

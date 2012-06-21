@@ -1,0 +1,42 @@
+shantibraford - 1/10/2008:
+* ability to browse torrents by category (& multiple categories)
+* fix for a federation.yml file that is simply '---' (no sites)
+* ability to search torrents (MySQL Full Text)
+* configuration options explanations
+
+shantibraford - 12/17/2007:
+* show/hide full file list
+* added ability to comment on torrents (& paginate comments)
+* config.yml gets a new field 'enable_rss' which defaults to false
+* added support for authenticated RSS feeds, using uTorrents HTTP Basic Auth format, i.e: http://username:dc92360e30@foo.org/feed
+* feeds authenticate using a login/passkey pair
+* .torrent downloads via feeds are authenticated via passkey
+* fixes for Rails 2.0 compatibility
+* moved Memcached configuration (port / memory usage) to config.yml
+
+shantibraford - 12/16/2007:
+* fixes in Sync.sync_users
+* Sync.sync_transfer_stats getting close
+* RatioSync IDs cannot be auto-generated, need to be shared between sites -- added migration, changes for this
+* basic Transfer Stat syncing now appears to be working; needs some more testing though
+* More robust RubyTorrent MetaInfo parsing around announce-list
+
+shantibraford - 12/12/2007:
+* fixed a nasty bug that was causing signups to fail silently (fixed by doing a @user.reload to get the generated remember_token)
+* Safari Uploading bug fixes
+* Core (non distributed) tracker testing and debugging complete - have successfully uploaded/seeded from one machine, downloaded from another.  xfer stats get updated, and stopping the torrents no longer results in any server errrors.
+
+shantibraford - 12/9/2007:
+* another piece of the puzzle comes together: multiple tracker URLs embedded in the .torrent download
+* actually verify remote IP if the 'ip_required' field is set in federation.yml
+
+shantibraford - 12/8/2007:
+* new installs now get some default categories
+* Category.create_music creates some default music categories (can be expanded)
+* User IDs are associated with torrents when they are first uploaded -- this is to track abuse.  After 3 days, the user_id field is wiped from the torrent (and there should be no permanent record of this).  The wiping is triggered by visiting the main apps homepage, so as long as people visit that URL periodically, the wiping occurs.
+* Uploads now get categories associated with them (choosing a category is required)
+* Duplicate info_hash checking -- a .torrent with an info_hash that has already been upped, cannot be reuploaded
+* The config value 'layout' now tells the app which rails layout to use (app/views/layouts). default is 'application'
+* Main logged in page displays Top 10 stats: most active, most seeded, & most snatched
+* Admin controller gets Manage Categories functionality
+* fun with XML escaping/unescaping in the Sync API

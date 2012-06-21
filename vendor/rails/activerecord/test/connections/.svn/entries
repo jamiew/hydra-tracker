@@ -1,0 +1,58 @@
+10
+
+dir
+165
+http://hydraproject.googlecode.com/svn/trunk/vendor/rails/activerecord/test/connections
+http://hydraproject.googlecode.com/svn
+
+
+
+2008-01-10T17:04:10.640971Z
+157
+shantibraford
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ffe7e100-e63d-0410-a7fb-f560dcb15827
+
+native_openbase
+dir
+
+native_sqlite
+dir
+
+native_postgresql
+dir
+
+native_frontbase
+dir
+
+native_sqlite3
+dir
+
+native_oracle
+dir
+
+native_mysql
+dir
+
+native_sybase
+dir
+
+native_firebird
+dir
+
+native_db2
+dir
+

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/vendor/rubytorrent/full
+END
+make-metainfo.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/vendor/rubytorrent/full/make-metainfo.rb
+END
+rubytorrent.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/vendor/rubytorrent/full/rubytorrent.rb
+END
+rtpeer-ncurses.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/vendor/rubytorrent/full/rtpeer-ncurses.rb
+END
+dump-peers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/vendor/rubytorrent/full/dump-peers.rb
+END
+VERSION-0.3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/vendor/rubytorrent/full/VERSION-0.3
+END
+rtpeer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/vendor/rubytorrent/full/rtpeer.rb
+END
+ReleaseNotes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/vendor/rubytorrent/full/ReleaseNotes.txt
+END
+dump-metainfo.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/vendor/rubytorrent/full/dump-metainfo.rb
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/vendor/rubytorrent/full/COPYING
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/vendor/rubytorrent/full/README
+END

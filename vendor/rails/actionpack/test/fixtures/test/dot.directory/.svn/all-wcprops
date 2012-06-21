@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/157/trunk/vendor/rails/actionpack/test/fixtures/test/dot.directory
+END
+render_file_with_ivar.erb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/157/trunk/vendor/rails/actionpack/test/fixtures/test/dot.directory/render_file_with_ivar.erb
+END

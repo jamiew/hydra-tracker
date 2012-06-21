@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/157/trunk/vendor/rails/actionpack/test/fixtures
+END
+topic.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/157/trunk/vendor/rails/actionpack/test/fixtures/topic.rb
+END
+developers_projects.yml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/157/trunk/vendor/rails/actionpack/test/fixtures/developers_projects.yml
+END
+topics.yml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/157/trunk/vendor/rails/actionpack/test/fixtures/topics.yml
+END
+replies.yml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/157/trunk/vendor/rails/actionpack/test/fixtures/replies.yml
+END
+developer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/157/trunk/vendor/rails/actionpack/test/fixtures/developer.rb
+END
+project.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/157/trunk/vendor/rails/actionpack/test/fixtures/project.rb
+END
+developers.yml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/157/trunk/vendor/rails/actionpack/test/fixtures/developers.yml
+END
+company.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/157/trunk/vendor/rails/actionpack/test/fixtures/company.rb
+END
+projects.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/157/trunk/vendor/rails/actionpack/test/fixtures/projects.yml
+END
+reply.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/157/trunk/vendor/rails/actionpack/test/fixtures/reply.rb
+END
+companies.yml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/157/trunk/vendor/rails/actionpack/test/fixtures/companies.yml
+END

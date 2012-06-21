@@ -1,0 +1,4 @@
+<div style="background-color: #eee; border: 1px dotted #aaa; width: 400px; padding: 6px; margin-bottom: 6px;">
+	<a href="/admin">Admin Config</a> |
+	<a href="/admin/categories">Manage Categories</a>
+</div>

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/157/trunk/vendor/rails/railties/configs/initializers
+END
+inflections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/157/trunk/vendor/rails/railties/configs/initializers/inflections.rb
+END
+mime_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/157/trunk/vendor/rails/railties/configs/initializers/mime_types.rb
+END

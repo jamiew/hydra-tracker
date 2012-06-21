@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/157/trunk/vendor/rails/activesupport/test/core_ext/class
+END
+class_inheritable_attributes_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/157/trunk/vendor/rails/activesupport/test/core_ext/class/class_inheritable_attributes_test.rb
+END
+attribute_accessor_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/157/trunk/vendor/rails/activesupport/test/core_ext/class/attribute_accessor_test.rb
+END
+delegating_attributes_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/157/trunk/vendor/rails/activesupport/test/core_ext/class/delegating_attributes_test.rb
+END

@@ -1,0 +1,61 @@
+10
+
+dir
+165
+http://hydraproject.googlecode.com/svn/trunk/vendor/rails/railties/lib/rails_generator/generators/components
+http://hydraproject.googlecode.com/svn
+
+
+
+2008-01-10T17:04:10.640971Z
+157
+shantibraford
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ffe7e100-e63d-0410-a7fb-f560dcb15827
+
+model
+dir
+
+scaffold
+dir
+
+integration_test
+dir
+
+controller
+dir
+
+resource
+dir
+
+observer
+dir
+
+mailer
+dir
+
+migration
+dir
+
+session_migration
+dir
+
+web_service
+dir
+
+plugin
+dir
+

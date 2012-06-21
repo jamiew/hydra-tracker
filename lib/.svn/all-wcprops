@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/158/trunk/lib
+END
+hydra_client.rb
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/134/trunk/lib/hydra_client.rb
+END
+core_class_extensions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/99/trunk/lib/core_class_extensions.rb
+END
+login_system.rb
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/158/trunk/lib/login_system.rb
+END
